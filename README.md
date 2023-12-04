@@ -1,0 +1,2 @@
+# spring_sercurity_role_based_authentication_InMemory
+spring_sercurity_role_based_authentication_InMemory
